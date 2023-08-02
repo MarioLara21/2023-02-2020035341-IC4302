@@ -1,6 +1,5 @@
 # 2023-02-2020035341-IC4302
-## Repositorio personal de Mario Lara Molina
-## para el curso de Bases de Datos II 2023 S2
+## Repositorio personal de Mario Lara Molina para el curso de Bases de Datos II 2023 S2
 
 Todo email enviado al profesor debe seguir el siguiente formato:
 - Subject: 2023-02-[número de carné]-IC4302-[Asunto]
