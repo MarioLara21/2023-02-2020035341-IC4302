@@ -16,3 +16,5 @@ Todo email enviado al profesor debe seguir el siguiente formato:
 - 2023-02-200420157-IC4302-L1
 - Body: Debe iniciar con el nombre y carné de cada estudiante (en caso de ser grupos).
 - En el caso de evaluaciones, se deberá adjuntar un enlace al repositorio y se deberá adjuntar un archivo comprimido con la evaluación.
+
+ - Email: nereo08@gmail.com o gecampos@itcr.ac.cr
