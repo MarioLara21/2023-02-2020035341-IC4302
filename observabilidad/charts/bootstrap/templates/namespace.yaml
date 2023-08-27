@@ -1,0 +1,7 @@
+{{- range .Values.namespaces }}
+---
+apiVersion: v1
+kind: Namespaceme
+tadata:
+  name: {{ . }}
+{{- end }}
